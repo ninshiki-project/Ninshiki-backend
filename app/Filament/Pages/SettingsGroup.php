@@ -15,5 +15,5 @@ class SettingsGroup extends Page
 
     protected static string $view = 'filament.pages.settings-group';
 
-    protected static ?int $navigationSort = 4;
+    protected static ?int $navigationSort = 5;
 }
